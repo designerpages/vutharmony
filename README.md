@@ -29,7 +29,7 @@ This project is a React Native application built with Expo (version 0.18.29). It
    ```
 2. Install dependencies:
    ```
-   cd your-repo-name
+   cd vutharmony
    npm install
    ```
 3. Start the Expo development server:
